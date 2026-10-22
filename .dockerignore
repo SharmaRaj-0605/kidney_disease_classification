@@ -1,0 +1,7 @@
+data/
+assets/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+best.pt
+*.ipynb
