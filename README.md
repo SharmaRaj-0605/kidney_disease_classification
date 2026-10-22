@@ -88,17 +88,17 @@ Computed on the held-out test set:
 
 | Metric | Value |
 |---|---|
-| Test accuracy | XX.X% |
-| Macro-F1 | 0.XXX |
+| Test accuracy | 99.6% |
+| Macro-F1 | 99.4% |
 
 **Per-class results**
 
 | Class | Precision | Recall | F1 |
 |---|---|---|---|
-| Normal | 0.XX | 0.XX | 0.XX |
-| Cyst | 0.XX | 0.XX | 0.XX |
-| Stone | 0.XX | 0.XX | 0.XX |
-| Tumor | 0.XX | 0.XX | 0.XX |
+| Normal |1.000  |0.98 | 0.994
+| Cyst | 0.98 | 0.98 | 0.99 |
+| Stone | 0.97 | 0.10 | 0.98 |
+| Tumor | 0.10 | 0.98 | 0.99 |
 
 **Training curves**
 
